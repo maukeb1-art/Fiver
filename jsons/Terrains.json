@@ -13,6 +13,7 @@
         "occursOn": ["Grassland", "Tundra", "Plains", "Desert"],
         "impassable": true,
         "unbuildable": true,
+        "overrideStats": true,
         "weight": 0,
         "civilopediaText": [
             {
