@@ -1,0 +1,24 @@
+[
+
+    {
+        "name": "Fiver",
+        "type": "NaturalWonder",
+        "food": 5,
+        "production": 5,
+        "science": 5,
+        "gold": 5,
+        "faith": 5,
+        "happiness": 5,
+        "culture": 5,  
+        "occursOn": ["Grassland", "Tundra", "Plains", "Desert"],
+        "impassable": true,
+        "unbuildable": true,
+        "weight": 0,
+        "civilopediaText": [
+            {
+                "text": "THE FIVER"            
+            }        
+        ] 
+    }
+
+]
